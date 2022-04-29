@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="/docs/readme_pt-BR.md">PORTUGUÊS</a>
+  <a href="/readme_pt-BR.md">PORTUGUÊS</a>
   ·
-  <a href="/docs/readme_us.md">ENGLISH</a>
+  <a href="/readme_us.md">ENGLISH</a>
 </div>
 
 <h2> --- Opa!, meu nome é Guilherme. Seja bem vindo. Tome um café 🍵 --- </h2>
