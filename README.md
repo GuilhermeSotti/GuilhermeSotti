@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
   <a href="/docs/readme_pt-BR.md">PORTUGUÊS</a>
   ·
   <a href="/docs/readme_us.md">ENGLISH</a>
-</p>
+</div>
 
 <h2> --- Opa!, meu nome é Guilherme. Seja bem vindo. Tome um café 🍵 --- </h2>
 
@@ -40,12 +40,18 @@
   </ul>
 </div>
 
-<p align="center">
+<div>
+  <h3> Sistemas </h3>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&color=grey&logo=linux&logoColor=white">
+</div>
+
+<div>
   <h3> Contatos </h3>
-  <a href="mailto:Gpiresmachado@hotmail.com"> Hotmail </a>
-  |
-  <a href="https://www.linkedin.com/in/guilherme-pires-de-sotti-machado-296a7417a/"> Linkedin </a>
-</p>
+    <a href="mailto:Gpiresmachado@hotmail.com"> Hotmail </a>
+    |
+    <a href="https://www.linkedin.com/in/guilherme-pires-de-sotti-machado-296a7417a/"> Linkedin </a>
+</div>
 
 <!---
 GuilhermeSotti/GuilhermeSotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
