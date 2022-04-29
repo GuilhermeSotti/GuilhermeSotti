@@ -9,10 +9,10 @@
 <div class="col-6" style="display:flex">
   <div class="status">
     <ul>
-      <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSotti&show_icons=true&theme=monokai&custom_title=Meus Status">
+      <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSotti&show_icons=true&theme=monokai&custom_title=My Stats">
     </ul>
     <ul>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact&theme=monokai&custom_title=Minhas Liguagens Preferidas">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact&theme=monokai&custom_title=My Favorite Languages">
     </ul>
   </div>
 </div>
