@@ -51,7 +51,7 @@
   <ul>
     <h2> -- IDE's -- </h2>
       <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=40&color=currentColor">
-      <img src="https://icongr.am/devicon/docker-plain.svg?size=40&color=currentColor">
+      <img src="https://icongr.am/devicon/docker-original.svg?size=40&color=currentColor">
       <img src="https://icongr.am/devicon/pycharm-original.svg?size=40&color=currentColor">
       <img src="https://icongr.am/simple/androidstudio.svg?size=40&color=20a754&colored=false">
   </ul>
