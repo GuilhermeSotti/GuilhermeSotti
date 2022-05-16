@@ -16,7 +16,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeSotti&theme=monokai&date_format=j/n/Y">
     </ul>
     <ul>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact&theme=monokai&custom_title=My Favorite Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSotti&layout=compact&theme=monokai&custom_title=My Favorite Languages">
     </ul>
   </div>
 </div>
@@ -51,7 +51,7 @@
   <ul>
     <h2> -- IDE's -- </h2>
       <img src="https://icongr.am/devicon/visualstudio-plain.svg?size=40&color=currentColor">
-      <img src="https://icongr.am/devicon/docker-plain.svg?size=40&color=currentColor">
+      <img src="https://icongr.am/devicon/docker-original.svg?size=40&color=currentColor">
       <img src="https://icongr.am/devicon/pycharm-original.svg?size=40&color=currentColor">
       <img src="https://icongr.am/simple/androidstudio.svg?size=40&color=20a754&colored=false">
   </ul>
