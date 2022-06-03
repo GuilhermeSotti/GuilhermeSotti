@@ -24,7 +24,7 @@
 <br/>
 
 <div>
-  <h2> <b> |'/~~/~~/~~/~~/~~/~~/,| :construction: Projeto em construção :construction: |,\~~\~~\~~\~~\~~\~~\'| </b> </h2>
+  <h2> <b> |'/~~/~~/~~/~~/~~/,| :construction: Projeto em construção :construction: |,\~~\~~\~~\~~\~~\'| </b> </h2>
   <ul>
      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeSotti&repo=TestsAPI&theme=monokai">
   </ul>
