@@ -26,7 +26,9 @@
 <div>
   <h2> <b> |'/~~/~~/~~/~~/~~/,| :construction: Projeto em construção :construction: |,\~~\~~\~~\~~\~~\'| </b> </h2>
   <ul>
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeSotti&repo=GuilhermeSotti.github.io&theme=monokai">
+     <a href="https://github.com/GuilhermeSotti/GuilhermeSotti.github.io" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeSotti&repo=GuilhermeSotti.github.io&theme=monokai">
+     </a>
   </ul>
 </div>
 
