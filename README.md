@@ -16,7 +16,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeSotti&theme=monokai&date_format=j/n/Y">
     </ul>
     <ul>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSotti&layout=compact&theme=monokai&custom_title=Minhas Liguagens Preferidas">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSotti&layout=compact&theme=monokai&custom_title=Minhas&nbsp;Liguagens&nbsp;Preferidas">
     </ul>
   </div>
 </div>
