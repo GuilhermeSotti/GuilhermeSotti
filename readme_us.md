@@ -26,7 +26,7 @@
 <div>
   <h2> <b> |'/~~/~~/~~/~~/~~/~~/,| :construction: Project under construction :construction: |,\~~\~~\~~\~~\~~\~~\'| </b> </h2>
   <ul>
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeSotti&repo=TestsAPI&theme=monokai">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeSotti&repo=GuilhermeSotti.github.io&theme=monokai">
   </ul>
 </div>
 
